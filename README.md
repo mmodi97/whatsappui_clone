@@ -1,16 +1,17 @@
-# whatsappui_clone
+## Whatsapp UI Clone In Flutter 
 
-A new Flutter application.
+UI Challenge
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+This project is for the people who want to learn flutter and want to know how we can make top level apps in flutter tool.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+![Chat Tab Screen](https://github.com/mmodi97/whatsappui_clone/blob/master/lib/Screenshots/smartphone-mockup-with-sea-star.png?raw=true "Homescreen")
+![Status Tab Screen](https://github.com/mmodi97/whatsappui_clone/blob/master/lib/Screenshots/smartphone-mockup-with-sea-star%20(1).png?raw=true)
+![Calls Tab Screen](https://github.com/mmodi97/whatsappui_clone/blob/master/lib/Screenshots/smartphone-mockup-with-sea-star%20(2).png?raw=true)
+![Select Contact](https://github.com/mmodi97/whatsappui_clone/blob/master/lib/Screenshots/smartphone-mockup-with-sea-star%20(3).png?raw=true)
+![Chat Screen](https://github.com/mmodi97/whatsappui_clone/blob/master/lib/Screenshots/smartphone-mockup-with-sea-star%20(4).png?raw=true)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Greetings
+Thank you for visiting my github profile I hope you will find something better ☺️☺️☺️☺️
