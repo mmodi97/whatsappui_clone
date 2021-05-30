@@ -33,9 +33,14 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 <li>Give me a maximum of 24-48 hours to respond</li>
 <li>Have proper documentation on the parts you are changing/adding</li>
 </ul>
+
 ## Greetings
 Feel free to contribute
 
 ## Developed & Maintained by
 
 <a href="https://github.com/mmodi97">Mayank Modi 😎 </a>
+
+
+## Getting Started
+For help getting started with Flutter, view our online <a href="https://flutter.dev/docs">documentation</a>.
