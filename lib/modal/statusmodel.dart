@@ -6,15 +6,15 @@ class StatusModel{
 
 List<StatusModel> statusmodel=[
 
-  new StatusModel(name:"Apeksha Agarwal",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
-new StatusModel(name:"Apeksha Agarwal",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
-new StatusModel(name:"Apeksha Agarwal",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
-new StatusModel(name:"Apeksha Agarwal",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
-new StatusModel(name:"Apeksha Agarwal",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
-new StatusModel(name:"Apeksha Agarwal",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
-new StatusModel(name:"Apeksha Agarwal",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
-new StatusModel(name:"Apeksha Agarwal",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
-new StatusModel(name:"Apeksha Agarwal",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
-new StatusModel(name:"Apeksha Agarwal",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
+  new StatusModel(name:"Mayank",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
+new StatusModel(name:"Mayank",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
+new StatusModel(name:"Mayank",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
+new StatusModel(name:"Mayank",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
+new StatusModel(name:"Mayank",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
+new StatusModel(name:"Mayank",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
+new StatusModel(name:"Mayank",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
+new StatusModel(name:"Mayank",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
+new StatusModel(name:"Mayank",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
+new StatusModel(name:"Mayank",time:"Today 12:00",imageurl:"https://wallpapercave.com/wp/bfwAi41.jpg"),
 
 ];

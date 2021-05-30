@@ -57,7 +57,7 @@ class _NewContactState extends State<NewContact> {
         ],
       ),
       body: Container(
-        color: Color(0xff25D366),
+        color: Color(0xffffff),
         child: Column(
           children: [
             ListTile(
