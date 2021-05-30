@@ -17,4 +17,4 @@ This project is for the people who want to learn flutter and want to know how to
 Thank you for visiting my github profile I hope you will find something better ☺️☺️☺️☺️
 
 ## Contribution
-Please give me any suggestion regarding any application that you want and please contribute in this repository if you are intrested to improve it. ✌️✌️✌️
+Please give me any suggestion regarding any application that you want and please contribute in this repository if you are intrested to improve it. Also mention the issues. ✌️✌️✌️
