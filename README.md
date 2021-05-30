@@ -43,4 +43,4 @@ Feel free to contribute
 
 
 ## Getting Started
-For help getting started with Flutter, view our online <a href="https://flutter.dev/docs">documentation</a>.
+For help getting started with Flutter, view  online <a href="https://flutter.dev/docs">documentation</a>.
