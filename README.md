@@ -1,16 +1,46 @@
-# whatsappui_clone
+## Whatsapp UI Clone In Flutter 
 
-A new Flutter application.
+👉 If you like this repo then please give it a ⭐️
+
+## Short Description
+
+This project is for the people who want to learn flutter and want to know how to design apps using flutter tool.I hope you will like it
+
+## Screenshots
+![Chat Tab Screen](https://github.com/mmodi97/whatsappui_clone/blob/master/lib/Screenshots/smartphone-mockup-with-sea-star.png?raw=true "Homescreen")
+![Status Tab Screen](https://github.com/mmodi97/whatsappui_clone/blob/master/lib/Screenshots/smartphone-mockup-with-sea-star%20(1).png?raw=true)
+![Calls Tab Screen](https://github.com/mmodi97/whatsappui_clone/blob/master/lib/Screenshots/smartphone-mockup-with-sea-star%20(2).png?raw=true)
+![Select Contact](https://github.com/mmodi97/whatsappui_clone/blob/master/lib/Screenshots/smartphone-mockup-with-sea-star%20(3).png?raw=true)
+![Chat Screen](https://github.com/mmodi97/whatsappui_clone/blob/master/lib/Screenshots/smartphone-mockup-with-sea-star%20(4).png?raw=true)
+
+
+## How to run this
+Running this is as simple as it gets. Follow this steps
+
+Open your terminal (NOTE: git bash prefered/ Terminal on VS Code)
+Navigate to the project folder where you have cloned this repo.
+Open an emulator or plug in a real device
+Type the following command in the terminal
+
+flutter run
+
+
+## Pull Request
+Pull Requests are welcome. Please follow these rules for the ease of understanding:
+
+<ul>
+<li>Make sure to check for available issues before raising one</li>
+<li>Give me a maximum of 24-48 hours to respond</li>
+<li>Have proper documentation on the parts you are changing/adding</li>
+</ul>
+
+## Greetings
+Feel free to contribute
+
+## Developed & Maintained by
+
+<a href="https://github.com/mmodi97">Mayank Modi 😎 </a>
+
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help getting started with Flutter, view  online <a href="https://flutter.dev/docs">documentation</a>.
