@@ -1,13 +1,18 @@
+import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 import 'package:whatsappui_clone/pages/newmessage.dart';
 import 'package:whatsappui_clone/pages/personal_chat.dart';
 
 import 'WhatsappHome.dart';
 
-void main() {
+/*Future<Null> main() async{
+  cameras =await availableCameras();
+  runApp(MyApp());
+}*/
+main() {
+
   runApp(MyApp());
 }
-
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override

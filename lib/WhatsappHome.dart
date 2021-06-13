@@ -8,7 +8,8 @@ import 'package:whatsappui_clone/pages/statusscreen.dart';
 import 'modal/menus.dart';
 
 class WhatsappHome extends StatefulWidget {
-  const WhatsappHome({Key key}) : super(key: key);
+
+  WhatsappHome();
 
   @override
   _WhatsappHomeState createState() => _WhatsappHomeState();
